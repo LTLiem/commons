@@ -1,0 +1,17 @@
+*.class
+*.swp
+*.jar
+*.war
+*.ear
+.classpath
+.project
+target/
+*/target/
+velocity.log
+.settings
+*.MF
+/classes/
+# Intellij
+.idea
+*.iml
+*.iws
